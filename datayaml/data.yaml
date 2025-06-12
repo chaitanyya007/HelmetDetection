@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOv5_Custom/images/train
+val: /content/drive/MyDrive/YOLOv5_Custom/images/val
+
+nc: 1  # number of classes (change if you have more)
+names: ['helmet']  # list of class names in the same order as your .txt files
