@@ -57,6 +57,7 @@ kafka-server-start.sh config/server.properties
 # Start producer and consumer
 python kafka_producer.py
 python kafka_consumer.py
+```
 
 ---
 
