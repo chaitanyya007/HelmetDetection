@@ -44,8 +44,8 @@ This project demonstrates a real-time video analysis system using **Apache Kafka
 
 ```bash
 # Clone the repo
-git clone https://github.com/dikshant-s/HelmetDetection.git
-cd kafka-video-analysis
+git clone https://github.com/chaitanyya007/HelmetDetection.git
+cd HelmetDetection
 
 # Install requirements
 pip install -r requirements.txt
@@ -57,3 +57,11 @@ kafka-server-start.sh config/server.properties
 # Start producer and consumer
 python kafka_producer.py
 python kafka_consumer.py
+
+---
+
+> **Note:** This repository is a personal copy of the Helmet Detection project  
+> jointly developed by **Dikshant Singh** and **Chaitanya Pratap Agarwal**.  
+> I cloned it to keep my own record and portfolio of the work we built together.  
+> The commit history preserves the original authorship.
+
